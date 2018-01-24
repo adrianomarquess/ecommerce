@@ -1,0 +1,44 @@
+{
+  "name": "ecommerce",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "apisauce": "^0.14.3",
+    "prop-types": "^15.6.0",
+    "react": "16.2.0",
+    "react-native": "0.52.0",
+    "react-native-simple-toast": "0.0.7",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.0.0-beta.26",
+    "react-redux": "^5.0.6",
+    "reactotron-react-native": "^1.14.0",
+    "reactotron-redux": "^1.13.0",
+    "reactotron-redux-saga": "^1.13.0",
+    "redux": "^3.7.2",
+    "redux-persist": "^5.5.0",
+    "redux-saga": "^0.16.0",
+    "reduxsauce": "^0.7.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "babel-jest": "22.1.0",
+    "babel-plugin-module-resolver": "^3.0.0",
+    "babel-preset-react-native": "^4.0.0",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-import-resolver-babel-module": "^4.0.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-plugin-react-native": "^3.2.1",
+    "jest": "22.1.1",
+    "react-test-renderer": "16.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

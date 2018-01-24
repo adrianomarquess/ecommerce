@@ -1,0 +1,286 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Camisetas"
+    },
+    {
+      "id": 2,
+      "title": "Camisas"
+    },
+    {
+      "id": 3,
+      "title": "Calças"
+    },
+    {
+      "id": 4,
+      "title": "Blusas"
+    },
+    {
+      "id": 5,
+      "title": "Bonés"
+    },
+    {
+      "id": 6,
+      "title": "Casacos"
+    }
+  ],
+  "category_products": [
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 1,
+          "name": "Camiseta Hyperas Preta",
+          "brand": "Quiksilver",
+          "image": "https://t-static.dafiti.com.br/czCvp3wBNPfehf7omYZfJacnxPY=/fit-in/427x620/dafitistatic-a.akamaihd.net%2fp%2fquiksilver-camiseta-quiksilver-hyperas-preta-8710-7136243-1-product.jpg",
+          "price": 49.99
+        },
+        {
+          "id": 2,
+          "name": "Camiseta Double Tap Preta",
+          "brand": "Quiksilver",
+          "image": "https://t-static.dafiti.com.br/EpEXepU-tSbgo6ZMl4Y5BOdjelw=/fit-in/427x620/dafitistatic-a.akamaihd.net%2fp%2fquiksilver-camiseta-quiksilver-double-tap-preta-7115-8165043-1-product.jpg",
+          "price": 59.99
+        },
+        {
+          "id": 3,
+          "name": "Camiseta Primo Tipper",
+          "brand": "Rip Curl",
+          "image": "https://t-static.dafiti.com.br/weG0u9eKZ4KBV-G0XFOQ5hoY4eI=/fit-in/427x620/dafitistatic-a.akamaihd.net%2fp%2frip-curl-camiseta-rip-curl-primo-tipper-preto-8138-3441052-1-product.jpg",
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "products": [
+        {
+          "id": 4,
+          "name": "Camisa Listrada",
+          "brand": "Tommy Hilfiger",
+          "image": "https://t-static.dafiti.com.br/o99hlnkE-vALQZycOaDplzpDhvs=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2ftommy-hilfiger-camisa-tommy-hilfiger-listras-azul-5572-4474243-1-product.jpg",
+          "price": 189.99
+        },
+        {
+          "id": 5,
+          "name": "Camisa Azul",
+          "brand": "Forum",
+          "image": "https://t-static.dafiti.com.br/MWiCEgRyIGDP7syjyLjtJNilxVQ=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fforum-camisa-forum-bordado-azul-6866-7483833-1-product.jpg",
+          "price": 129.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "products": [
+        {
+          "id": 29,
+          "name": "Calça Jeans Preta",
+          "brand": "Calvin Klein",
+          "image": "https://t-static.dafiti.com.br/-rofFhnL8AL62aLgqjS_I3FgMKU=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fcalvin-klein-jeans-cal%25c3%25a7a-jeans-calvin-klein-jeans-skinny-estonada-azul-7760-9971823-1-product.jpg",
+          "price": 149.99
+        },
+        {
+          "id": 6,
+          "name": "Calça Jeans Azul",
+          "brand": "Colcci",
+          "image": "https://t-static.dafiti.com.br/7yEKhC8fxdURJiQPE1JiYEJrgQA=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fcolcci-cal%25c3%25a7a-jeans-colcci-reta-pespontos-azul-8652-6059523-1-product.jpg",
+          "price": 199.99
+        },
+        {
+          "id": 7,
+          "name": "Calça Jeans Bege",
+          "brand": "Colcci",
+          "image": "https://t-static.dafiti.com.br/xTaeF2bizAJdVj-pwF3ilkHYUsQ=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fnineclouds-skateboards-cal%25c3%25a7a-nineclouds-skateboards-sarja-ocre-2681-8061492-1-product.jpg",
+          "price": 169.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "products": [
+        {
+          "id": 8,
+          "name": "Moletom Aberto Cinza",
+          "brand": "Mr Kitsch",
+          "image": "https://t-static.dafiti.com.br/RWhws44nguiHhPl4S8cVddYmQek=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fmr-kitsch-moletom-aberto-mr-kitsch-basic-type-cinza-0011-1766582-1-product.jpg",
+          "price": 79.99
+        },
+        {
+          "id": 9,
+          "name": "Moletom Azul",
+          "brand": "Lacoste",
+          "image": "https://t-static.dafiti.com.br/hAU3fJyTR-7G-A3ST3oWuEBPDvg=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2flacoste-moletom-lacoste-cord%25c3%25a3o-azul-marinho-2229-7469661-1-product.jpg",
+          "price": 149.99
+        },
+        {
+          "id": 10,
+          "name": "Moletom Esportivo",
+          "brand": "Adidas",
+          "image": "https://t-static.dafiti.com.br/aMNM1GtYEz5yOs-IQiFdcGgs8z0=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fadidas-moletom-adidas-ess-3s-fz-hood-cinza-4728-1250282-1-product.jpg",
+          "price": 109.99
+        },
+        {
+          "id": 11,
+          "name": "Moletom Verde",
+          "brand": "Quiksilver",
+          "image": "https://t-static.dafiti.com.br/NaRfP1bQ5LciCLo5g3tO8QCKK-4=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fquiksilver-moletom-flanelado-fechado-quiksilver-amster-verde%252fcinza-6123-9388423-1-product.jpg",
+          "price": 119.99
+        },
+        {
+          "id": 12,
+          "name": "Moletom DC Fechado",
+          "brand": "DC",
+          "image": "https://t-static.dafiti.com.br/kEt5HBoqN0hoxqkiqm7h7JwI7N4=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fdc-shoes-moletom-flanelado-fechado-dc-shoes-big-logo-cinza-6899-3939692-1-product.jpg",
+          "price": 45.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "products": [
+        {
+          "id": 13,
+          "name": "Bone Strapback Tricolor",
+          "brand": "Colcci",
+          "image": "https://t-static.dafiti.com.br/I3cnYgc2jT-l9Bb58tVPbEqWDVU=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fcolcci-bon%25c3%25a9-colcci-strapback-tricolor-branco%252fvermelho-1696-5602733-1-product.jpg",
+          "price": 79.99
+        },
+        {
+          "id": 14,
+          "name": "Bone Nerf Vermelho",
+          "brand": "Nerf",
+          "image": "https://t-static.dafiti.com.br/yZMTbkMkAyE82aCoTRMiBjHMJEE=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fneff-bon%25c3%25a9-neff-corpo-vermelho%252fazul-9353-5189012-1-product.jpg",
+          "price": 9.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "products": [
+        {
+          "id": 15,
+          "name": "Jaqueta Puffer",
+          "brand": "Broken Rules",
+          "image": "https://t-static.dafiti.com.br/B4PvSJ_vxTIfHHfdzlzvCL5cOVo=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fbroken-rules-jaqueta-puffer-broken-rules-matelass%25c3%25aa-azul-marinho-8934-5776033-1-product.jpg",
+          "price": 99.99
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta Hyperas Preta",
+      "brand": "Quiksilver",
+      "image": "https://t-static.dafiti.com.br/czCvp3wBNPfehf7omYZfJacnxPY=/fit-in/427x620/dafitistatic-a.akamaihd.net%2fp%2fquiksilver-camiseta-quiksilver-hyperas-preta-8710-7136243-1-product.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "Camiseta Double Tap Preta",
+      "brand": "Quiksilver",
+      "image": "https://t-static.dafiti.com.br/EpEXepU-tSbgo6ZMl4Y5BOdjelw=/fit-in/427x620/dafitistatic-a.akamaihd.net%2fp%2fquiksilver-camiseta-quiksilver-double-tap-preta-7115-8165043-1-product.jpg",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Primo Tipper",
+      "brand": "Rip Curl",
+      "image": "https://t-static.dafiti.com.br/weG0u9eKZ4KBV-G0XFOQ5hoY4eI=/fit-in/427x620/dafitistatic-a.akamaihd.net%2fp%2frip-curl-camiseta-rip-curl-primo-tipper-preto-8138-3441052-1-product.jpg",
+      "price": 39.99
+    },
+    {
+      "id": 4,
+      "name": "Camisa Listrada",
+      "brand": "Tommy Hilfiger",
+      "image": "https://t-static.dafiti.com.br/o99hlnkE-vALQZycOaDplzpDhvs=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2ftommy-hilfiger-camisa-tommy-hilfiger-listras-azul-5572-4474243-1-product.jpg",
+      "price": 189.99
+    },
+    {
+      "id": 5,
+      "name": "Camisa Azul",
+      "brand": "Forum",
+      "image": "https://t-static.dafiti.com.br/MWiCEgRyIGDP7syjyLjtJNilxVQ=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fforum-camisa-forum-bordado-azul-6866-7483833-1-product.jpg",
+      "price": 129.99
+    },
+    {
+      "id": 29,
+      "name": "Calça Jeans Preta",
+      "brand": "Calvin Klein",
+      "image": "https://t-static.dafiti.com.br/-rofFhnL8AL62aLgqjS_I3FgMKU=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fcalvin-klein-jeans-cal%25c3%25a7a-jeans-calvin-klein-jeans-skinny-estonada-azul-7760-9971823-1-product.jpg",
+      "price": 149.99
+    },
+    {
+      "id": 6,
+      "name": "Calça Jeans Azul",
+      "brand": "Colcci",
+      "image": "https://t-static.dafiti.com.br/7yEKhC8fxdURJiQPE1JiYEJrgQA=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fcolcci-cal%25c3%25a7a-jeans-colcci-reta-pespontos-azul-8652-6059523-1-product.jpg",
+      "price": 199.99
+    },
+    {
+      "id": 7,
+      "name": "Calça Jeans Bege",
+      "brand": "Colcci",
+      "image": "https://t-static.dafiti.com.br/xTaeF2bizAJdVj-pwF3ilkHYUsQ=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fnineclouds-skateboards-cal%25c3%25a7a-nineclouds-skateboards-sarja-ocre-2681-8061492-1-product.jpg",
+      "price": 169.99
+    },
+    {
+      "id": 8,
+      "name": "Moletom Aberto Cinza",
+      "brand": "Mr Kitsch",
+      "image": "https://t-static.dafiti.com.br/RWhws44nguiHhPl4S8cVddYmQek=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fmr-kitsch-moletom-aberto-mr-kitsch-basic-type-cinza-0011-1766582-1-product.jpg",
+      "price": 79.99
+    },
+    {
+      "id": 9,
+      "name": "Moletom Azul",
+      "brand": "Lacoste",
+      "image": "https://t-static.dafiti.com.br/hAU3fJyTR-7G-A3ST3oWuEBPDvg=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2flacoste-moletom-lacoste-cord%25c3%25a3o-azul-marinho-2229-7469661-1-product.jpg",
+      "price": 149.99
+    },
+    {
+      "id": 10,
+      "name": "Moletom Esportivo",
+      "brand": "Adidas",
+      "image": "https://t-static.dafiti.com.br/aMNM1GtYEz5yOs-IQiFdcGgs8z0=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fadidas-moletom-adidas-ess-3s-fz-hood-cinza-4728-1250282-1-product.jpg",
+      "price": 109.99
+    },
+    {
+      "id": 11,
+      "name": "Moletom Verde",
+      "brand": "Quiksilver",
+      "image": "https://t-static.dafiti.com.br/NaRfP1bQ5LciCLo5g3tO8QCKK-4=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fquiksilver-moletom-flanelado-fechado-quiksilver-amster-verde%252fcinza-6123-9388423-1-product.jpg",
+      "price": 119.99
+    },
+    {
+      "id": 12,
+      "name": "Moletom DC Fechado",
+      "brand": "DC",
+      "image": "https://t-static.dafiti.com.br/kEt5HBoqN0hoxqkiqm7h7JwI7N4=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fdc-shoes-moletom-flanelado-fechado-dc-shoes-big-logo-cinza-6899-3939692-1-product.jpg",
+      "price": 45.99
+    },
+    {
+      "id": 13,
+      "name": "Bone Strapback Tricolor",
+      "brand": "Colcci",
+      "image": "https://t-static.dafiti.com.br/I3cnYgc2jT-l9Bb58tVPbEqWDVU=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fcolcci-bon%25c3%25a9-colcci-strapback-tricolor-branco%252fvermelho-1696-5602733-1-product.jpg",
+      "price": 79.99
+    },
+    {
+      "id": 14,
+      "name": "Bone Nerf Vermelho",
+      "brand": "Nerf",
+      "image": "https://t-static.dafiti.com.br/yZMTbkMkAyE82aCoTRMiBjHMJEE=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fneff-bon%25c3%25a9-neff-corpo-vermelho%252fazul-9353-5189012-1-product.jpg",
+      "price": 9.99
+    },
+    {
+      "id": 15,
+      "name": "Jaqueta Puffer",
+      "brand": "Broken Rules",
+      "image": "https://t-static.dafiti.com.br/B4PvSJ_vxTIfHHfdzlzvCL5cOVo=/fit-in/333x483/dafitistatic-a.akamaihd.net%2fp%2fbroken-rules-jaqueta-puffer-broken-rules-matelass%25c3%25aa-azul-marinho-8934-5776033-1-product.jpg",
+      "price": 99.99
+    }
+  ]
+}
