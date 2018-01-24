@@ -17,9 +17,7 @@ class SubTotal extends Component {
 
   renderTotal = () => {
     const { cart } = this.props;
-
-    let total = 0;
-    cart.data.map(product => total += product.price * product.quantity);
+    const total = cart.data.reduce((a, product) => a + (product.price * product.quantity), 0);
 
     return (
       <Text style={styles.total}>R${new Intl.NumberFormat('pt-br').format(total)}</Text>
