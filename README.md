@@ -30,7 +30,6 @@ json-server server.json
 ```
 
 Run app
-```
-react-native start
-react-native run-ios or react-native run-android
-```
+`react-native start`
+
+`react-native run-ios` or `react-native run-android`
