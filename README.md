@@ -2,7 +2,9 @@
 
 Learning [React Native](https://facebook.github.io/react-native/) with an example of ecommerce project
 
-<img src="ecommerce-gif.gif" width="300">
+<img src="screenshot/1.png" width="200">
+<img src="screenshot/2.png" width="200">
+<img src="screenshot/3.png" width="200">
 
 ## Prerequisites
 
