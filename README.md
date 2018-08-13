@@ -17,7 +17,7 @@ Learning [React Native](https://facebook.github.io/react-native/) with an exampl
 3. Go to the project folder
 4. Install dependencies
 ```
-git clone https://github.com/drimarques/ecommerce.git
+git clone https://github.com/adrianomarquess/ecommerce.git
 cd ecommerce
 npm install
 ```
